@@ -22,8 +22,8 @@ This tutorial outlines the steps to observe DNS traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/a9c3a6e6-3c12-4542-9d0a-797f814db6bb" height="200%" width="200%"
+<img src="https://github.com/user-attachments/assets/c3cf159a-088b-4d76-b998-0e5993473112" height="200%" width="200%"
   </p>
 
-<p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
+<p>Open Powershell and use the nslookup command on a website while observing traffic in Wireshark</p>
 <br />
