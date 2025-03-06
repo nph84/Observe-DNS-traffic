@@ -21,8 +21,7 @@ This tutorial outlines the steps to observe DNS traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/c3cf159a-088b-4d76-b998-0e5993473112"
-  </p>
-
-<p>Open Powershell and use the nslookup command on a website while observing traffic in Wireshark</p>
+Open Powershell and use the nslookup command on a website while observing traffic in Wireshar <br /> <br />
+<img src="https://github.com/user-attachments/assets/c3cf159a-088b-4d76-b998-0e5993473112" height="80%" width="80%"/>
+</p>
 <br />
